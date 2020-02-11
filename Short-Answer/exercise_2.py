@@ -1,18 +1,3 @@
-#### Please add your answers to the ***Analysis of  Algorithms*** exercises here.
-
-## Exercise I
-
-a) O(log n)
-
-
-b) O(n^2)
-
-
-c) O(n)
-
-## Exercise II
-
-```python
 import math
 OPTIMAL_FLOOR = 8
 
@@ -40,5 +25,3 @@ def is_egg_broken(floor):
 
 
 print(optimal_breaking_floor(10))
-
-```
